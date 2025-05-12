@@ -184,3 +184,28 @@ footer{
     font-size: 16px;
     box-shadow: 10px 10px 30px 0px #cc5104;
 }
+
+@media (max-width:1279px){
+ .seccion_1 button {
+    margin-top: 32px;
+    margin-bottom: 270px;
+ }
+.seccion_2 h2{
+    width: 460px;
+}
+.div3 h2 {
+    margin-left: 200px;
+    color: #ff8940;
+    font-size: 37px;
+    width: 441px;
+}
+.seccion_3 img {
+    margin-left: -110px;
+    margin-right: -165px;
+}
+
+
+}
+@media(max-width:920px){
+
+} 
